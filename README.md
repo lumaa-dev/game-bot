@@ -1,7 +1,7 @@
 # Game Bot
 This **JavaScript** project was never finished. It was made the 23rd of June 2021
 
-This bot contains 1 out of the 2 games that were planned out. Connect 4 and Hangman both in French
+This bot contains 1 out of the 2 games that were planned out. Connect 4 and Hangman both in French.  
 **THERE WON'T BE AN ENGLISH TRANSLATION FROM MY END.**
 
 ## License
